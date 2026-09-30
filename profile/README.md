@@ -42,4 +42,4 @@
 
 ### Contact
 
-KeyZula is developed by Netlen İnternet Hizmetleri Ltd. Şti., İstanbul, Türkiye · [info@keyzula.com](mailto:info@keyzula.com)
+KeyZula is developed by Netlen İnternet Hizmetleri Ltd. Şti. · [info@keyzula.com](mailto:info@keyzula.com)
