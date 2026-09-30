@@ -38,7 +38,7 @@
 - Zero-knowledge architecture: our servers only store encrypted data.
 - The client-side encryption library is open source: [keyzula-crypto](https://github.com/KeyZula/keyzula-crypto).
 - Security whitepaper: [PDF](https://keyzula.com/docs/keyzula-security-whitepaper-en.pdf).
-- Report vulnerabilities to **info@keyzula.com** (subject: *Security*). See [security.txt](https://keyzula.com/.well-known/security.txt).
+- Security contact: **info@keyzula.com** (subject: *Security*). See [security.txt](https://keyzula.com/.well-known/security.txt).
 
 ### Contact
 
