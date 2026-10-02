@@ -28,8 +28,8 @@
 |---|---|
 | **Web vault** | [app.keyzula.com](https://app.keyzula.com) |
 | **iPhone, iPad and Mac** | App Store |
-| **Android** | Google Play |
-| **Browser extension** | [Chrome Web Store](https://chromewebstore.google.com/detail/keyzula-password-manager/abjjikafppabflnhknfabfhngcknjdfd) (Chrome, Edge, Brave) · Firefox · Safari |
+| **Android** | [Google Play](https://play.google.com/store/apps/details?id=com.keyzula.app) |
+| **Browser extension** | [Chrome Web Store](https://chromewebstore.google.com/detail/keyzula-password-manager/abjjikafppabflnhknfabfhngcknjdfd) (Chrome, Edge, Brave) · [Firefox Add-ons](https://addons.mozilla.org/firefox/addon/keyzula/) · Safari |
 | **CLI and SSH agent** | `brew install keyzula/tap/keyzula` · [Guide](https://keyzula.com/en/cli/) |
 
 ### Security
